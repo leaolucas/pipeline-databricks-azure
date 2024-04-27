@@ -1,0 +1,9 @@
+{
+	"name": "databricks-luksleao",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "abc8432c-b2b5-4a80-b58f-d70579a1cf0d",
+		"tenantId": "5c046e8c-1624-486e-aba8-b87c83cecce9"
+	}
+}
